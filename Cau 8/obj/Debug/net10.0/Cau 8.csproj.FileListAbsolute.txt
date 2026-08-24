@@ -1,0 +1,14 @@
+D:\Cau 8\bin\Debug\net10.0\Cau 8.exe
+D:\Cau 8\bin\Debug\net10.0\Cau 8.deps.json
+D:\Cau 8\bin\Debug\net10.0\Cau 8.runtimeconfig.json
+D:\Cau 8\bin\Debug\net10.0\Cau 8.dll
+D:\Cau 8\bin\Debug\net10.0\Cau 8.pdb
+D:\Cau 8\obj\Debug\net10.0\Cau 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cau 8\obj\Debug\net10.0\Cau 8.AssemblyInfoInputs.cache
+D:\Cau 8\obj\Debug\net10.0\Cau 8.AssemblyInfo.cs
+D:\Cau 8\obj\Debug\net10.0\Cau 8.csproj.CoreCompileInputs.cache
+D:\Cau 8\obj\Debug\net10.0\Cau 8.dll
+D:\Cau 8\obj\Debug\net10.0\refint\Cau 8.dll
+D:\Cau 8\obj\Debug\net10.0\Cau 8.pdb
+D:\Cau 8\obj\Debug\net10.0\Cau 8.genruntimeconfig.cache
+D:\Cau 8\obj\Debug\net10.0\ref\Cau 8.dll

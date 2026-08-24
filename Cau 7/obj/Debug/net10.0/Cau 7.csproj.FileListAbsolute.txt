@@ -1,0 +1,14 @@
+D:\Cau 7\bin\Debug\net10.0\Cau 7.exe
+D:\Cau 7\bin\Debug\net10.0\Cau 7.deps.json
+D:\Cau 7\bin\Debug\net10.0\Cau 7.runtimeconfig.json
+D:\Cau 7\bin\Debug\net10.0\Cau 7.dll
+D:\Cau 7\bin\Debug\net10.0\Cau 7.pdb
+D:\Cau 7\obj\Debug\net10.0\Cau 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cau 7\obj\Debug\net10.0\Cau 7.AssemblyInfoInputs.cache
+D:\Cau 7\obj\Debug\net10.0\Cau 7.AssemblyInfo.cs
+D:\Cau 7\obj\Debug\net10.0\Cau 7.csproj.CoreCompileInputs.cache
+D:\Cau 7\obj\Debug\net10.0\Cau 7.dll
+D:\Cau 7\obj\Debug\net10.0\refint\Cau 7.dll
+D:\Cau 7\obj\Debug\net10.0\Cau 7.pdb
+D:\Cau 7\obj\Debug\net10.0\Cau 7.genruntimeconfig.cache
+D:\Cau 7\obj\Debug\net10.0\ref\Cau 7.dll
