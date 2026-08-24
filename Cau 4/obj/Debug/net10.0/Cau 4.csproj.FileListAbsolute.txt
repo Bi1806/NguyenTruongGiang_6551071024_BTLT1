@@ -1,0 +1,14 @@
+D:\Cau 4\bin\Debug\net10.0\Cau 4.exe
+D:\Cau 4\bin\Debug\net10.0\Cau 4.deps.json
+D:\Cau 4\bin\Debug\net10.0\Cau 4.runtimeconfig.json
+D:\Cau 4\bin\Debug\net10.0\Cau 4.dll
+D:\Cau 4\bin\Debug\net10.0\Cau 4.pdb
+D:\Cau 4\obj\Debug\net10.0\Cau 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cau 4\obj\Debug\net10.0\Cau 4.AssemblyInfoInputs.cache
+D:\Cau 4\obj\Debug\net10.0\Cau 4.AssemblyInfo.cs
+D:\Cau 4\obj\Debug\net10.0\Cau 4.csproj.CoreCompileInputs.cache
+D:\Cau 4\obj\Debug\net10.0\Cau 4.dll
+D:\Cau 4\obj\Debug\net10.0\refint\Cau 4.dll
+D:\Cau 4\obj\Debug\net10.0\Cau 4.pdb
+D:\Cau 4\obj\Debug\net10.0\Cau 4.genruntimeconfig.cache
+D:\Cau 4\obj\Debug\net10.0\ref\Cau 4.dll
